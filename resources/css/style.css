@@ -1,5 +1,6 @@
 body {
   text-align: center;
+  font-family: Helvetica;
 }
 
 .header {
@@ -8,32 +9,27 @@ body {
 }
 
 h1 {
-  font-family: Helvetica;
   font-size: 70px;
   font-weight: bold;
   color: white;
 }
 
 .link {
-  font-family: Helvetica;
   font-size: 18px;
   color: white;
 }
 
 h2 {
-  font-family: Helvetica;
   font-weight: bold;
   font-size: 32px;
 }
 
 h3 {
-  font-family: Helvetica;
   font-weight: bold;
   font-size: 23px;
 }
 
 h4 {
-  font-family: Helvetica;
   font-size: 14px;
   font-weight: normal;
 }
@@ -41,10 +37,6 @@ h4 {
 .end {
   text-align: left;
   background-color: dimgray;
-}
-
-p {
   color: white;
-  font-family: Helvetica;
   font-size: 11px;
 }
