@@ -20,6 +20,31 @@ h1 {
   color: white;
 }
 
+h2 {
+  font-family: Helvetica;
+  font-weight: bold;
+  font-size: 32px;
+}
+
+h3 {
+  font-family: Helvetica;
+  font-weight: bold;
+  font-size: 23px;
+}
+
+h4 {
+  font-family: Helvetica;
+  font-size: 14px;
+  font-weight: normal;
+}
+
 .end {
+  text-align: left;
   background-color: dimgray;
+}
+
+p {
+  color: white;
+  font-family: Helvetica;
+  font-size: 11px;
 }
